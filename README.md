@@ -3,7 +3,7 @@ Concepts and tools to develop functional OCR based programs that will be used in
 
 **Credits: Adrian Rosebrock, OCR with OpenCV, Tesseract, and Python, PyImageSearch**
 
-Table of contents
+### Table of contents
 =================
 
 <!--ts-->
